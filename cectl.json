@@ -1,6 +1,6 @@
 {
-  "version": "0.17.0",
-  "url": "https://github.com/ghchinoy/cectl/releases/download/v0.17.0/cectl-0.17.0.64.exe.zip",
-  "hash": "cad06272356ceebd59374d2b18a6d8801e395946e1141125ad3e669713b7dda4",
+  "version": "0.17.1",
+  "url": "https://github.com/ghchinoy/cectl/releases/download/v0.17.1/cectl-0.17.1.64.exe.zip",
+  "hash": "1b002673631cb4adffef1de95c2a54673b1115a22f5e5be8d593b95caa88fafe",
   "bin": "cectl.exe"
 }
